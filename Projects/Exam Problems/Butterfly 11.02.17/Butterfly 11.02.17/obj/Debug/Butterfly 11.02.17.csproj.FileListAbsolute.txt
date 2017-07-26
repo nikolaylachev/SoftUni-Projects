@@ -1,0 +1,5 @@
+E:\Visual Studio\Projects\Exam Problems\Butterfly 11.02.17\Butterfly 11.02.17\bin\Debug\Butterfly 11.02.17.exe.config
+E:\Visual Studio\Projects\Exam Problems\Butterfly 11.02.17\Butterfly 11.02.17\bin\Debug\Butterfly 11.02.17.exe
+E:\Visual Studio\Projects\Exam Problems\Butterfly 11.02.17\Butterfly 11.02.17\bin\Debug\Butterfly 11.02.17.pdb
+E:\Visual Studio\Projects\Exam Problems\Butterfly 11.02.17\Butterfly 11.02.17\obj\Debug\Butterfly 11.02.17.exe
+E:\Visual Studio\Projects\Exam Problems\Butterfly 11.02.17\Butterfly 11.02.17\obj\Debug\Butterfly 11.02.17.pdb

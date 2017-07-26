@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\Random Projects\Testing some stuff\Testing some stuff\bin\Debug\Testing some stuff.exe.config
+E:\Visual Studio\Projects\Random Projects\Testing some stuff\Testing some stuff\bin\Debug\Testing some stuff.exe
+E:\Visual Studio\Projects\Random Projects\Testing some stuff\Testing some stuff\bin\Debug\Testing some stuff.pdb
+E:\Visual Studio\Projects\Random Projects\Testing some stuff\Testing some stuff\obj\Debug\Testing some stuff.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\Random Projects\Testing some stuff\Testing some stuff\obj\Debug\Testing some stuff.exe
+E:\Visual Studio\Projects\Random Projects\Testing some stuff\Testing some stuff\obj\Debug\Testing some stuff.pdb

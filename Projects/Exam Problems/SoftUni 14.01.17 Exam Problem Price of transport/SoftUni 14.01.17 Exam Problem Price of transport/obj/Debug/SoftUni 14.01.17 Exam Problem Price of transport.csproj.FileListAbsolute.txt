@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\SoftUni 14.01.17 Exam Problem Price of transport\SoftUni 14.01.17 Exam Problem Price of transport\bin\Debug\SoftUni 14.01.17 Exam Problem Price of transport.exe.config
+E:\Visual Studio\Projects\SoftUni 14.01.17 Exam Problem Price of transport\SoftUni 14.01.17 Exam Problem Price of transport\bin\Debug\SoftUni 14.01.17 Exam Problem Price of transport.exe
+E:\Visual Studio\Projects\SoftUni 14.01.17 Exam Problem Price of transport\SoftUni 14.01.17 Exam Problem Price of transport\bin\Debug\SoftUni 14.01.17 Exam Problem Price of transport.pdb
+E:\Visual Studio\Projects\SoftUni 14.01.17 Exam Problem Price of transport\SoftUni 14.01.17 Exam Problem Price of transport\obj\Debug\SoftUni 14.01.17 Exam Problem Price of transport.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\SoftUni 14.01.17 Exam Problem Price of transport\SoftUni 14.01.17 Exam Problem Price of transport\obj\Debug\SoftUni 14.01.17 Exam Problem Price of transport.exe
+E:\Visual Studio\Projects\SoftUni 14.01.17 Exam Problem Price of transport\SoftUni 14.01.17 Exam Problem Price of transport\obj\Debug\SoftUni 14.01.17 Exam Problem Price of transport.pdb

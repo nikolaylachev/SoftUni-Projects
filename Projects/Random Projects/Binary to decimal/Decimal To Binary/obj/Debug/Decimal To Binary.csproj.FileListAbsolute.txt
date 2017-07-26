@@ -1,0 +1,5 @@
+E:\Visual Studio\Projects\Random Projects\Binary to decimal\Decimal To Binary\bin\Debug\Decimal To Binary.exe.config
+E:\Visual Studio\Projects\Random Projects\Binary to decimal\Decimal To Binary\bin\Debug\Decimal To Binary.exe
+E:\Visual Studio\Projects\Random Projects\Binary to decimal\Decimal To Binary\bin\Debug\Decimal To Binary.pdb
+E:\Visual Studio\Projects\Random Projects\Binary to decimal\Decimal To Binary\obj\Debug\Decimal To Binary.exe
+E:\Visual Studio\Projects\Random Projects\Binary to decimal\Decimal To Binary\obj\Debug\Decimal To Binary.pdb

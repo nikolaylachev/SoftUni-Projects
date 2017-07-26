@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\Random Projects\Binary to decimal\Binary to decimal\bin\Debug\Binary to decimal.exe.config
+E:\Visual Studio\Projects\Random Projects\Binary to decimal\Binary to decimal\bin\Debug\Binary to decimal.exe
+E:\Visual Studio\Projects\Random Projects\Binary to decimal\Binary to decimal\bin\Debug\Binary to decimal.pdb
+E:\Visual Studio\Projects\Random Projects\Binary to decimal\Binary to decimal\obj\Debug\Binary to decimal.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\Random Projects\Binary to decimal\Binary to decimal\obj\Debug\Binary to decimal.exe
+E:\Visual Studio\Projects\Random Projects\Binary to decimal\Binary to decimal\obj\Debug\Binary to decimal.pdb

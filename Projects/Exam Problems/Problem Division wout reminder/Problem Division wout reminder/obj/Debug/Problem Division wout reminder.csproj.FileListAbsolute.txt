@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\Exam Problems\Problem Division wout reminder\Problem Division wout reminder\bin\Debug\Problem Division wout reminder.exe.config
+E:\Visual Studio\Projects\Exam Problems\Problem Division wout reminder\Problem Division wout reminder\bin\Debug\Problem Division wout reminder.exe
+E:\Visual Studio\Projects\Exam Problems\Problem Division wout reminder\Problem Division wout reminder\bin\Debug\Problem Division wout reminder.pdb
+E:\Visual Studio\Projects\Exam Problems\Problem Division wout reminder\Problem Division wout reminder\obj\Debug\Problem Division wout reminder.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\Exam Problems\Problem Division wout reminder\Problem Division wout reminder\obj\Debug\Problem Division wout reminder.exe
+E:\Visual Studio\Projects\Exam Problems\Problem Division wout reminder\Problem Division wout reminder\obj\Debug\Problem Division wout reminder.pdb
