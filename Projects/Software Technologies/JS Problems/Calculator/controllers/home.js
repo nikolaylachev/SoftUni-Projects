@@ -15,6 +15,6 @@ module.exports = {
         
         let result = calculator.CalculateResult();
 
-        res.render('home/index', {'calculator': calculator, 'result': result});
+        res.render('home/index', {'calculator': calculator,'result': result});
     }
 };
