@@ -1,6 +1,0 @@
-E:\Visual Studio\Projects\Random Projects\DateTime\DateTime\bin\Debug\DateTime.exe.config
-E:\Visual Studio\Projects\Random Projects\DateTime\DateTime\bin\Debug\DateTime.exe
-E:\Visual Studio\Projects\Random Projects\DateTime\DateTime\bin\Debug\DateTime.pdb
-E:\Visual Studio\Projects\Random Projects\DateTime\DateTime\obj\Debug\DateTime.csprojResolveAssemblyReference.cache
-E:\Visual Studio\Projects\Random Projects\DateTime\DateTime\obj\Debug\DateTime.exe
-E:\Visual Studio\Projects\Random Projects\DateTime\DateTime\obj\Debug\DateTime.pdb

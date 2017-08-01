@@ -1,6 +1,0 @@
-E:\Visual Studio\Projects\Exam Problems\Problem Magic Number 26.03.16\Problem Magic Number 26.03.16\bin\Debug\Problem Magic Number 26.03.16.exe.config
-E:\Visual Studio\Projects\Exam Problems\Problem Magic Number 26.03.16\Problem Magic Number 26.03.16\bin\Debug\Problem Magic Number 26.03.16.exe
-E:\Visual Studio\Projects\Exam Problems\Problem Magic Number 26.03.16\Problem Magic Number 26.03.16\bin\Debug\Problem Magic Number 26.03.16.pdb
-E:\Visual Studio\Projects\Exam Problems\Problem Magic Number 26.03.16\Problem Magic Number 26.03.16\obj\Debug\Problem Magic Number 26.03.16.csprojResolveAssemblyReference.cache
-E:\Visual Studio\Projects\Exam Problems\Problem Magic Number 26.03.16\Problem Magic Number 26.03.16\obj\Debug\Problem Magic Number 26.03.16.exe
-E:\Visual Studio\Projects\Exam Problems\Problem Magic Number 26.03.16\Problem Magic Number 26.03.16\obj\Debug\Problem Magic Number 26.03.16.pdb

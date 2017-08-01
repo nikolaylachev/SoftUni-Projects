@@ -1,6 +1,0 @@
-E:\Visual Studio\Projects\Random Projects\Figures painting\Figures painting\bin\Debug\Figures painting.exe.config
-E:\Visual Studio\Projects\Random Projects\Figures painting\Figures painting\bin\Debug\Figures painting.exe
-E:\Visual Studio\Projects\Random Projects\Figures painting\Figures painting\bin\Debug\Figures painting.pdb
-E:\Visual Studio\Projects\Random Projects\Figures painting\Figures painting\obj\Debug\Figures painting.csprojResolveAssemblyReference.cache
-E:\Visual Studio\Projects\Random Projects\Figures painting\Figures painting\obj\Debug\Figures painting.exe
-E:\Visual Studio\Projects\Random Projects\Figures painting\Figures painting\obj\Debug\Figures painting.pdb

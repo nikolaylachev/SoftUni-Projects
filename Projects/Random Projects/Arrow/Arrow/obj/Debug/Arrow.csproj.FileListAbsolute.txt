@@ -1,6 +1,0 @@
-E:\Visual Studio\Projects\Random Projects\Arrow\Arrow\bin\Debug\Arrow.exe.config
-E:\Visual Studio\Projects\Random Projects\Arrow\Arrow\bin\Debug\Arrow.exe
-E:\Visual Studio\Projects\Random Projects\Arrow\Arrow\bin\Debug\Arrow.pdb
-E:\Visual Studio\Projects\Random Projects\Arrow\Arrow\obj\Debug\Arrow.exe
-E:\Visual Studio\Projects\Random Projects\Arrow\Arrow\obj\Debug\Arrow.pdb
-E:\Visual Studio\Projects\Random Projects\Arrow\Arrow\obj\Debug\Arrow.csprojResolveAssemblyReference.cache

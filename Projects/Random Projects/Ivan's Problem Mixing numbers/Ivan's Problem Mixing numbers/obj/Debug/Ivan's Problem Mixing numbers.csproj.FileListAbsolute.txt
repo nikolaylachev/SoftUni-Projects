@@ -1,6 +1,0 @@
-E:\Visual Studio\Projects\Random Projects\Ivan's Problem Mixing numbers\Ivan's Problem Mixing numbers\bin\Debug\Ivan's Problem Mixing numbers.exe.config
-E:\Visual Studio\Projects\Random Projects\Ivan's Problem Mixing numbers\Ivan's Problem Mixing numbers\bin\Debug\Ivan's Problem Mixing numbers.exe
-E:\Visual Studio\Projects\Random Projects\Ivan's Problem Mixing numbers\Ivan's Problem Mixing numbers\bin\Debug\Ivan's Problem Mixing numbers.pdb
-E:\Visual Studio\Projects\Random Projects\Ivan's Problem Mixing numbers\Ivan's Problem Mixing numbers\obj\Debug\Ivan's Problem Mixing numbers.csprojResolveAssemblyReference.cache
-E:\Visual Studio\Projects\Random Projects\Ivan's Problem Mixing numbers\Ivan's Problem Mixing numbers\obj\Debug\Ivan's Problem Mixing numbers.exe
-E:\Visual Studio\Projects\Random Projects\Ivan's Problem Mixing numbers\Ivan's Problem Mixing numbers\obj\Debug\Ivan's Problem Mixing numbers.pdb

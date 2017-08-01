@@ -1,6 +1,0 @@
-E:\Visual Studio\Projects\Exam Problems\Exam Problem Exam Hall 17.12.16\Exam Problem Exam Hall 17.12.16\bin\Debug\Exam Problem Exam Hall 17.12.16.exe.config
-E:\Visual Studio\Projects\Exam Problems\Exam Problem Exam Hall 17.12.16\Exam Problem Exam Hall 17.12.16\bin\Debug\Exam Problem Exam Hall 17.12.16.exe
-E:\Visual Studio\Projects\Exam Problems\Exam Problem Exam Hall 17.12.16\Exam Problem Exam Hall 17.12.16\bin\Debug\Exam Problem Exam Hall 17.12.16.pdb
-E:\Visual Studio\Projects\Exam Problems\Exam Problem Exam Hall 17.12.16\Exam Problem Exam Hall 17.12.16\obj\Debug\Exam Problem Exam Hall 17.12.16.csprojResolveAssemblyReference.cache
-E:\Visual Studio\Projects\Exam Problems\Exam Problem Exam Hall 17.12.16\Exam Problem Exam Hall 17.12.16\obj\Debug\Exam Problem Exam Hall 17.12.16.exe
-E:\Visual Studio\Projects\Exam Problems\Exam Problem Exam Hall 17.12.16\Exam Problem Exam Hall 17.12.16\obj\Debug\Exam Problem Exam Hall 17.12.16.pdb

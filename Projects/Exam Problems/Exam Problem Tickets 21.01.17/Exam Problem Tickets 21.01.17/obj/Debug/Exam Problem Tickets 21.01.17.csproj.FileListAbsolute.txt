@@ -1,6 +1,0 @@
-E:\Visual Studio\Projects\Exam Problems\Exam Problem Tickets 21.01.17\Exam Problem Tickets 21.01.17\bin\Debug\Exam Problem Tickets 21.01.17.exe.config
-E:\Visual Studio\Projects\Exam Problems\Exam Problem Tickets 21.01.17\Exam Problem Tickets 21.01.17\bin\Debug\Exam Problem Tickets 21.01.17.exe
-E:\Visual Studio\Projects\Exam Problems\Exam Problem Tickets 21.01.17\Exam Problem Tickets 21.01.17\bin\Debug\Exam Problem Tickets 21.01.17.pdb
-E:\Visual Studio\Projects\Exam Problems\Exam Problem Tickets 21.01.17\Exam Problem Tickets 21.01.17\obj\Debug\Exam Problem Tickets 21.01.17.csprojResolveAssemblyReference.cache
-E:\Visual Studio\Projects\Exam Problems\Exam Problem Tickets 21.01.17\Exam Problem Tickets 21.01.17\obj\Debug\Exam Problem Tickets 21.01.17.exe
-E:\Visual Studio\Projects\Exam Problems\Exam Problem Tickets 21.01.17\Exam Problem Tickets 21.01.17\obj\Debug\Exam Problem Tickets 21.01.17.pdb

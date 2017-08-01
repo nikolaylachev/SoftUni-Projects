@@ -1,5 +1,0 @@
-E:\Visual Studio\Projects\Exam Problems\Special Numbers 24.04.16\Special Numbers 24.04.16\bin\Debug\Special Numbers 24.04.16.exe.config
-E:\Visual Studio\Projects\Exam Problems\Special Numbers 24.04.16\Special Numbers 24.04.16\bin\Debug\Special Numbers 24.04.16.exe
-E:\Visual Studio\Projects\Exam Problems\Special Numbers 24.04.16\Special Numbers 24.04.16\bin\Debug\Special Numbers 24.04.16.pdb
-E:\Visual Studio\Projects\Exam Problems\Special Numbers 24.04.16\Special Numbers 24.04.16\obj\Debug\Special Numbers 24.04.16.exe
-E:\Visual Studio\Projects\Exam Problems\Special Numbers 24.04.16\Special Numbers 24.04.16\obj\Debug\Special Numbers 24.04.16.pdb

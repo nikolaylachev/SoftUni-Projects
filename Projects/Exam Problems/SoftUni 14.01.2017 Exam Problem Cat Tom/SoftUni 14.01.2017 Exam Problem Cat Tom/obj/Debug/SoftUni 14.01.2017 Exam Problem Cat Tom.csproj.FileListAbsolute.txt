@@ -1,5 +1,0 @@
-E:\Visual Studio\Projects\SoftUni 14.01.2017 Exam Problem Cat Tom\SoftUni 14.01.2017 Exam Problem Cat Tom\bin\Debug\SoftUni 14.01.2017 Exam Problem Cat Tom.exe.config
-E:\Visual Studio\Projects\SoftUni 14.01.2017 Exam Problem Cat Tom\SoftUni 14.01.2017 Exam Problem Cat Tom\bin\Debug\SoftUni 14.01.2017 Exam Problem Cat Tom.exe
-E:\Visual Studio\Projects\SoftUni 14.01.2017 Exam Problem Cat Tom\SoftUni 14.01.2017 Exam Problem Cat Tom\bin\Debug\SoftUni 14.01.2017 Exam Problem Cat Tom.pdb
-E:\Visual Studio\Projects\SoftUni 14.01.2017 Exam Problem Cat Tom\SoftUni 14.01.2017 Exam Problem Cat Tom\obj\Debug\SoftUni 14.01.2017 Exam Problem Cat Tom.exe
-E:\Visual Studio\Projects\SoftUni 14.01.2017 Exam Problem Cat Tom\SoftUni 14.01.2017 Exam Problem Cat Tom\obj\Debug\SoftUni 14.01.2017 Exam Problem Cat Tom.pdb

@@ -1,6 +1,0 @@
-E:\Visual Studio\Projects\Random Projects\Arrow\Christmas tree\bin\Debug\Christmas tree.exe.config
-E:\Visual Studio\Projects\Random Projects\Arrow\Christmas tree\bin\Debug\Christmas tree.exe
-E:\Visual Studio\Projects\Random Projects\Arrow\Christmas tree\bin\Debug\Christmas tree.pdb
-E:\Visual Studio\Projects\Random Projects\Arrow\Christmas tree\obj\Debug\Christmas tree.exe
-E:\Visual Studio\Projects\Random Projects\Arrow\Christmas tree\obj\Debug\Christmas tree.pdb
-E:\Visual Studio\Projects\Random Projects\Arrow\Christmas tree\obj\Debug\Christmas tree.csprojResolveAssemblyReference.cache

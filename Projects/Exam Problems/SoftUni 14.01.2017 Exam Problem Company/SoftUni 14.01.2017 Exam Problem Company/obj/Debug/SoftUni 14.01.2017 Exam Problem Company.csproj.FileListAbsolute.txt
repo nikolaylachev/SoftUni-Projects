@@ -1,6 +1,0 @@
-E:\Visual Studio\Projects\SoftUni 14.01.2017 Exam Problem Company\SoftUni 14.01.2017 Exam Problem Company\bin\Debug\SoftUni 14.01.2017 Exam Problem Company.exe.config
-E:\Visual Studio\Projects\SoftUni 14.01.2017 Exam Problem Company\SoftUni 14.01.2017 Exam Problem Company\bin\Debug\SoftUni 14.01.2017 Exam Problem Company.exe
-E:\Visual Studio\Projects\SoftUni 14.01.2017 Exam Problem Company\SoftUni 14.01.2017 Exam Problem Company\bin\Debug\SoftUni 14.01.2017 Exam Problem Company.pdb
-E:\Visual Studio\Projects\SoftUni 14.01.2017 Exam Problem Company\SoftUni 14.01.2017 Exam Problem Company\obj\Debug\SoftUni 14.01.2017 Exam Problem Company.csprojResolveAssemblyReference.cache
-E:\Visual Studio\Projects\SoftUni 14.01.2017 Exam Problem Company\SoftUni 14.01.2017 Exam Problem Company\obj\Debug\SoftUni 14.01.2017 Exam Problem Company.exe
-E:\Visual Studio\Projects\SoftUni 14.01.2017 Exam Problem Company\SoftUni 14.01.2017 Exam Problem Company\obj\Debug\SoftUni 14.01.2017 Exam Problem Company.pdb

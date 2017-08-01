@@ -1,6 +1,0 @@
-E:\Visual Studio\Projects\HelloChristmasGroup\HelloChristmasGroup\bin\Debug\HelloChristmasGroup.exe.config
-E:\Visual Studio\Projects\HelloChristmasGroup\HelloChristmasGroup\bin\Debug\HelloChristmasGroup.exe
-E:\Visual Studio\Projects\HelloChristmasGroup\HelloChristmasGroup\bin\Debug\HelloChristmasGroup.pdb
-E:\Visual Studio\Projects\HelloChristmasGroup\HelloChristmasGroup\obj\Debug\HelloChristmasGroup.csprojResolveAssemblyReference.cache
-E:\Visual Studio\Projects\HelloChristmasGroup\HelloChristmasGroup\obj\Debug\HelloChristmasGroup.exe
-E:\Visual Studio\Projects\HelloChristmasGroup\HelloChristmasGroup\obj\Debug\HelloChristmasGroup.pdb

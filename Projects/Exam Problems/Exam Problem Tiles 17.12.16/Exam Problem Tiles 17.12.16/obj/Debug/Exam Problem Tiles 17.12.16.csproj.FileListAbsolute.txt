@@ -1,5 +1,0 @@
-E:\Visual Studio\Projects\Exam Problems\Exam Problem Tiles 17.12.16\Exam Problem Tiles 17.12.16\bin\Debug\Exam Problem Tiles 17.12.16.exe.config
-E:\Visual Studio\Projects\Exam Problems\Exam Problem Tiles 17.12.16\Exam Problem Tiles 17.12.16\bin\Debug\Exam Problem Tiles 17.12.16.exe
-E:\Visual Studio\Projects\Exam Problems\Exam Problem Tiles 17.12.16\Exam Problem Tiles 17.12.16\bin\Debug\Exam Problem Tiles 17.12.16.pdb
-E:\Visual Studio\Projects\Exam Problems\Exam Problem Tiles 17.12.16\Exam Problem Tiles 17.12.16\obj\Debug\Exam Problem Tiles 17.12.16.exe
-E:\Visual Studio\Projects\Exam Problems\Exam Problem Tiles 17.12.16\Exam Problem Tiles 17.12.16\obj\Debug\Exam Problem Tiles 17.12.16.pdb

@@ -1,6 +1,0 @@
-E:\Visual Studio\Projects\String test\String test\bin\Debug\String test.exe.config
-E:\Visual Studio\Projects\String test\String test\bin\Debug\String test.exe
-E:\Visual Studio\Projects\String test\String test\bin\Debug\String test.pdb
-E:\Visual Studio\Projects\String test\String test\obj\Debug\String test.csprojResolveAssemblyReference.cache
-E:\Visual Studio\Projects\String test\String test\obj\Debug\String test.exe
-E:\Visual Studio\Projects\String test\String test\obj\Debug\String test.pdb

@@ -1,6 +1,0 @@
-E:\Visual Studio\Projects\Exam Problems\Problem Clever Lily 4.02.17\Problem Clever Lily 4.02.17\bin\Debug\Problem Clever Lily 4.02.17.exe.config
-E:\Visual Studio\Projects\Exam Problems\Problem Clever Lily 4.02.17\Problem Clever Lily 4.02.17\obj\Debug\Problem Clever Lily 4.02.17.exe
-E:\Visual Studio\Projects\Exam Problems\Problem Clever Lily 4.02.17\Problem Clever Lily 4.02.17\obj\Debug\Problem Clever Lily 4.02.17.pdb
-E:\Visual Studio\Projects\Exam Problems\Problem Clever Lily 4.02.17\Problem Clever Lily 4.02.17\bin\Debug\Problem Clever Lily 4.02.17.exe
-E:\Visual Studio\Projects\Exam Problems\Problem Clever Lily 4.02.17\Problem Clever Lily 4.02.17\bin\Debug\Problem Clever Lily 4.02.17.pdb
-E:\Visual Studio\Projects\Exam Problems\Problem Clever Lily 4.02.17\Problem Clever Lily 4.02.17\obj\Debug\N-Умната Лили-U.csprojResolveAssemblyReference.cache

@@ -1,6 +1,0 @@
-E:\Visual Studio\Projects\SoftUniada Problem 7\SoftUniada Problem 7\bin\Debug\SoftUniada Problem 7.exe.config
-E:\Visual Studio\Projects\SoftUniada Problem 7\SoftUniada Problem 7\bin\Debug\SoftUniada Problem 7.exe
-E:\Visual Studio\Projects\SoftUniada Problem 7\SoftUniada Problem 7\bin\Debug\SoftUniada Problem 7.pdb
-E:\Visual Studio\Projects\SoftUniada Problem 7\SoftUniada Problem 7\obj\Debug\SoftUniada Problem 7.csprojResolveAssemblyReference.cache
-E:\Visual Studio\Projects\SoftUniada Problem 7\SoftUniada Problem 7\obj\Debug\SoftUniada Problem 7.exe
-E:\Visual Studio\Projects\SoftUniada Problem 7\SoftUniada Problem 7\obj\Debug\SoftUniada Problem 7.pdb

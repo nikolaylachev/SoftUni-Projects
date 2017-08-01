@@ -1,6 +1,0 @@
-E:\Visual Studio\Projects\Exam Problems\Exam January 16 Problem 8\Exam January 16 Problem 8\bin\Debug\Exam January 16 Problem 8.exe.config
-E:\Visual Studio\Projects\Exam Problems\Exam January 16 Problem 8\Exam January 16 Problem 8\bin\Debug\Exam January 16 Problem 8.exe
-E:\Visual Studio\Projects\Exam Problems\Exam January 16 Problem 8\Exam January 16 Problem 8\bin\Debug\Exam January 16 Problem 8.pdb
-E:\Visual Studio\Projects\Exam Problems\Exam January 16 Problem 8\Exam January 16 Problem 8\obj\Debug\Exam January 16 Problem 8.csprojResolveAssemblyReference.cache
-E:\Visual Studio\Projects\Exam Problems\Exam January 16 Problem 8\Exam January 16 Problem 8\obj\Debug\Exam January 16 Problem 8.exe
-E:\Visual Studio\Projects\Exam Problems\Exam January 16 Problem 8\Exam January 16 Problem 8\obj\Debug\Exam January 16 Problem 8.pdb

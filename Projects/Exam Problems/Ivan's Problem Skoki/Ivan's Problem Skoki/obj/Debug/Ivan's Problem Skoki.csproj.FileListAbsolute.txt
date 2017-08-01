@@ -1,6 +1,0 @@
-E:\Visual Studio\Projects\Exam Problems\Ivan's Problem Skoki\Ivan's Problem Skoki\bin\Debug\Ivan's Problem Skoki.exe.config
-E:\Visual Studio\Projects\Exam Problems\Ivan's Problem Skoki\Ivan's Problem Skoki\bin\Debug\Ivan's Problem Skoki.exe
-E:\Visual Studio\Projects\Exam Problems\Ivan's Problem Skoki\Ivan's Problem Skoki\bin\Debug\Ivan's Problem Skoki.pdb
-E:\Visual Studio\Projects\Exam Problems\Ivan's Problem Skoki\Ivan's Problem Skoki\obj\Debug\Ivan's Problem Skoki.csprojResolveAssemblyReference.cache
-E:\Visual Studio\Projects\Exam Problems\Ivan's Problem Skoki\Ivan's Problem Skoki\obj\Debug\Ivan's Problem Skoki.exe
-E:\Visual Studio\Projects\Exam Problems\Ivan's Problem Skoki\Ivan's Problem Skoki\obj\Debug\Ivan's Problem Skoki.pdb

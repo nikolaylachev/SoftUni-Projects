@@ -1,6 +1,0 @@
-E:\Visual Studio\Projects\SoftUni 14.01.17 Exam Problem Rekolta\SoftUni 14.01.17 Exam Problem Rekolta\bin\Debug\SoftUni 14.01.17 Exam Problem Rekolta.exe.config
-E:\Visual Studio\Projects\SoftUni 14.01.17 Exam Problem Rekolta\SoftUni 14.01.17 Exam Problem Rekolta\bin\Debug\SoftUni 14.01.17 Exam Problem Rekolta.exe
-E:\Visual Studio\Projects\SoftUni 14.01.17 Exam Problem Rekolta\SoftUni 14.01.17 Exam Problem Rekolta\bin\Debug\SoftUni 14.01.17 Exam Problem Rekolta.pdb
-E:\Visual Studio\Projects\SoftUni 14.01.17 Exam Problem Rekolta\SoftUni 14.01.17 Exam Problem Rekolta\obj\Debug\SoftUni 14.01.17 Exam Problem Rekolta.csprojResolveAssemblyReference.cache
-E:\Visual Studio\Projects\SoftUni 14.01.17 Exam Problem Rekolta\SoftUni 14.01.17 Exam Problem Rekolta\obj\Debug\SoftUni 14.01.17 Exam Problem Rekolta.exe
-E:\Visual Studio\Projects\SoftUni 14.01.17 Exam Problem Rekolta\SoftUni 14.01.17 Exam Problem Rekolta\obj\Debug\SoftUni 14.01.17 Exam Problem Rekolta.pdb

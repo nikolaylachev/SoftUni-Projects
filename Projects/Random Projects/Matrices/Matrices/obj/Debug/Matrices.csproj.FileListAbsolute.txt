@@ -1,6 +1,0 @@
-E:\Visual Studio\Projects\Random Projects\Matrices\Matrices\bin\Debug\Matrices.exe.config
-E:\Visual Studio\Projects\Random Projects\Matrices\Matrices\bin\Debug\Matrices.exe
-E:\Visual Studio\Projects\Random Projects\Matrices\Matrices\bin\Debug\Matrices.pdb
-E:\Visual Studio\Projects\Random Projects\Matrices\Matrices\obj\Debug\Matrices.csprojResolveAssemblyReference.cache
-E:\Visual Studio\Projects\Random Projects\Matrices\Matrices\obj\Debug\Matrices.exe
-E:\Visual Studio\Projects\Random Projects\Matrices\Matrices\obj\Debug\Matrices.pdb

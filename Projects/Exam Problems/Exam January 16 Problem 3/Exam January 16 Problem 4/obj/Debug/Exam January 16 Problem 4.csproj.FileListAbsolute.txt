@@ -1,5 +1,0 @@
-E:\Visual Studio\Projects\Exam Problems\Exam January 16 Problem 3\Exam January 16 Problem 4\bin\Debug\Exam January 16 Problem 4.exe.config
-E:\Visual Studio\Projects\Exam Problems\Exam January 16 Problem 3\Exam January 16 Problem 4\bin\Debug\Exam January 16 Problem 4.exe
-E:\Visual Studio\Projects\Exam Problems\Exam January 16 Problem 3\Exam January 16 Problem 4\bin\Debug\Exam January 16 Problem 4.pdb
-E:\Visual Studio\Projects\Exam Problems\Exam January 16 Problem 3\Exam January 16 Problem 4\obj\Debug\Exam January 16 Problem 4.exe
-E:\Visual Studio\Projects\Exam Problems\Exam January 16 Problem 3\Exam January 16 Problem 4\obj\Debug\Exam January 16 Problem 4.pdb
