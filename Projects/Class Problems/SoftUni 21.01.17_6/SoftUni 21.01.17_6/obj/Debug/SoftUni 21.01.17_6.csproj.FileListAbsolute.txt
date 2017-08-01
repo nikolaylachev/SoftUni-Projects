@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\Class Problems\SoftUni 21.01.17_6\SoftUni 21.01.17_6\bin\Debug\SoftUni 21.01.17_6.exe.config
+E:\Visual Studio\Projects\Class Problems\SoftUni 21.01.17_6\SoftUni 21.01.17_6\bin\Debug\SoftUni 21.01.17_6.exe
+E:\Visual Studio\Projects\Class Problems\SoftUni 21.01.17_6\SoftUni 21.01.17_6\bin\Debug\SoftUni 21.01.17_6.pdb
+E:\Visual Studio\Projects\Class Problems\SoftUni 21.01.17_6\SoftUni 21.01.17_6\obj\Debug\SoftUni 21.01.17_6.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\Class Problems\SoftUni 21.01.17_6\SoftUni 21.01.17_6\obj\Debug\SoftUni 21.01.17_6.exe
+E:\Visual Studio\Projects\Class Problems\SoftUni 21.01.17_6\SoftUni 21.01.17_6\obj\Debug\SoftUni 21.01.17_6.pdb

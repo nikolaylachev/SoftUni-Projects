@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ivan's Problem Mixing numbers", "Ivan's Problem Mixing numbers\Ivan's Problem Mixing numbers.csproj", "{C8A2D258-F88A-44A8-945B-F3B987F0F92D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8A2D258-F88A-44A8-945B-F3B987F0F92D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8A2D258-F88A-44A8-945B-F3B987F0F92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8A2D258-F88A-44A8-945B-F3B987F0F92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8A2D258-F88A-44A8-945B-F3B987F0F92D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

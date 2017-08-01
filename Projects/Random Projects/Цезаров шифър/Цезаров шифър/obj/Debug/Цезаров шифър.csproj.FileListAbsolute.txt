@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\Random Projects\Цезаров шифър\Цезаров шифър\bin\Debug\Цезаров шифър.exe.config
+E:\Visual Studio\Projects\Random Projects\Цезаров шифър\Цезаров шифър\bin\Debug\Цезаров шифър.exe
+E:\Visual Studio\Projects\Random Projects\Цезаров шифър\Цезаров шифър\bin\Debug\Цезаров шифър.pdb
+E:\Visual Studio\Projects\Random Projects\Цезаров шифър\Цезаров шифър\obj\Debug\Цезаров шифър.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\Random Projects\Цезаров шифър\Цезаров шифър\obj\Debug\Цезаров шифър.exe
+E:\Visual Studio\Projects\Random Projects\Цезаров шифър\Цезаров шифър\obj\Debug\Цезаров шифър.pdb

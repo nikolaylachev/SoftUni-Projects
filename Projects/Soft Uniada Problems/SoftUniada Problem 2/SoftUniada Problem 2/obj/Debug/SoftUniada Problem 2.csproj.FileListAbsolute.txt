@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\SoftUniada Problem 2\SoftUniada Problem 2\bin\Debug\SoftUniada Problem 2.exe.config
+E:\Visual Studio\Projects\Soft Uniada Problems\SoftUniada Problem 2\SoftUniada Problem 2\bin\Debug\SoftUniada Problem 2.exe.config
+E:\Visual Studio\Projects\Soft Uniada Problems\SoftUniada Problem 2\SoftUniada Problem 2\bin\Debug\SoftUniada Problem 2.exe
+E:\Visual Studio\Projects\Soft Uniada Problems\SoftUniada Problem 2\SoftUniada Problem 2\bin\Debug\SoftUniada Problem 2.pdb
+E:\Visual Studio\Projects\Soft Uniada Problems\SoftUniada Problem 2\SoftUniada Problem 2\obj\Debug\SoftUniada Problem 2.exe
+E:\Visual Studio\Projects\Soft Uniada Problems\SoftUniada Problem 2\SoftUniada Problem 2\obj\Debug\SoftUniada Problem 2.pdb

@@ -1,0 +1,6 @@
+E:\Visual Studio\Projects\Exam Problems\Soft Uni 17.12.2016 Exam Problem Vegetable\Soft Uni 17.12.2016 Exam Problem Vegetable\bin\Debug\Soft Uni 17.12.2016 Exam Problem Vegetable.exe.config
+E:\Visual Studio\Projects\Exam Problems\Soft Uni 17.12.2016 Exam Problem Vegetable\Soft Uni 17.12.2016 Exam Problem Vegetable\bin\Debug\Soft Uni 17.12.2016 Exam Problem Vegetable.exe
+E:\Visual Studio\Projects\Exam Problems\Soft Uni 17.12.2016 Exam Problem Vegetable\Soft Uni 17.12.2016 Exam Problem Vegetable\bin\Debug\Soft Uni 17.12.2016 Exam Problem Vegetable.pdb
+E:\Visual Studio\Projects\Exam Problems\Soft Uni 17.12.2016 Exam Problem Vegetable\Soft Uni 17.12.2016 Exam Problem Vegetable\obj\Debug\Soft Uni 17.12.2016 Exam Problem Vegetable.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Projects\Exam Problems\Soft Uni 17.12.2016 Exam Problem Vegetable\Soft Uni 17.12.2016 Exam Problem Vegetable\obj\Debug\Soft Uni 17.12.2016 Exam Problem Vegetable.exe
+E:\Visual Studio\Projects\Exam Problems\Soft Uni 17.12.2016 Exam Problem Vegetable\Soft Uni 17.12.2016 Exam Problem Vegetable\obj\Debug\Soft Uni 17.12.2016 Exam Problem Vegetable.pdb

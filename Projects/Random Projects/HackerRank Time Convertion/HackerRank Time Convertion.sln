@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank Time Convertion", "HackerRank Time Convertion\HackerRank Time Convertion.csproj", "{0B6D24E8-A2D1-4F61-A38C-180F30F29249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birthday Cake Candles", "Birthday Cake Candles\Birthday Cake Candles.csproj", "{F69D1E45-C3A8-4D2B-BE8C-C076CCD645FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B6D24E8-A2D1-4F61-A38C-180F30F29249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6D24E8-A2D1-4F61-A38C-180F30F29249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B6D24E8-A2D1-4F61-A38C-180F30F29249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6D24E8-A2D1-4F61-A38C-180F30F29249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F69D1E45-C3A8-4D2B-BE8C-C076CCD645FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69D1E45-C3A8-4D2B-BE8C-C076CCD645FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69D1E45-C3A8-4D2B-BE8C-C076CCD645FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69D1E45-C3A8-4D2B-BE8C-C076CCD645FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
