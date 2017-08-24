@@ -19,5 +19,8 @@ module.exports = (app) => {
     // the database.
 
     app.get('/article/details/:id', articleController.detailsGet);
+
+    app.get('/article/delete/:id', articleController.deleteGet);
+    app.post('/article/delete/:id' , articleController.deletePost);
 };
 

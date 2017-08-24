@@ -74,6 +74,7 @@ module.exports = {
 
     logout: (req, res) => {
         req.logOut();
-        res.redirect('/');
+        //IT WAS REDIRECTING TO HOME PAGE: res.redirect('/');
+        res.redirect('/user/login');
     }
 };

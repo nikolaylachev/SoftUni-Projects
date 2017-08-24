@@ -37,19 +37,44 @@ module.exports = {
                     error: err.message
                 });
             } else {
-                res.redirect('/');
+                res.redirect('/');//Redirect to home page where the home controller will be called and the articles
+                // will be desplayed.
             }
           });
       });
 
   },
     detailsGet: (req,res) => {
+      //Get the id from the URL!!!
       let id = req.params.id;
 
       Article.findById(id).populate('author').then(article => {
          res.render('article/details', article);
       });
+    },
+    //ALL LINES BELOW ARE ADDED BY ME!
+    deleteGet: (req, res) => {
+      let id = req.params.id;
 
+      Article.findById(id).then(article => {
+         res.render('article/delete', article)
+      });
 
+    },
+
+    deletePost: (req,res) => {
+        let id = req.params.id;
+
+        Article.findByIdAndRemove(id).then(article => {
+            let index = req.user.articles.indexOf(article.id);
+            req.user.articles.splice(index,1);
+            req.user.save(err => {
+                if(err) {
+                    res.render('/', {error: err.message});
+                } else {
+                    res.redirect('/');
+                }
+            });
+        });
     }
 };
